@@ -1,0 +1,74 @@
+[
+    {
+        "errorCode": "EmoteService-7001",
+        "errorMessage": "No Server Response"
+    },
+    {
+        "errorCode": "EmoteService-7002",
+        "errorMessage": "User Not Found"
+    },
+    {
+        "errorCode": "EmoteService-7003",
+        "errorMessage": "User haven't linked their twitch account to 7TV yet"
+    },
+    {
+        "errorCode": "EmoteService-7004",
+        "errorMessage": "No emote has been added to this channel yet"
+    },
+    {
+        "errorCode": "EmoteService-7005",
+        "errorMessage": "User doesn't have any owned emote"
+    },
+    {
+        "errorCode": "EmoteService-7006",
+        "errorMessage": "There are no editors added in this channel"
+    },
+    {
+        "errorCode": "EmoteService-7007",
+        "errorMessage": "User dont have any editor access in other channels"
+    },
+    {
+        "errorCode": "EmoteService-7008",
+        "errorMessage": "No emote found"
+    },
+    {
+        "errorCode": "EmoteService-7009",
+        "errorMessage": "Failed to add the following emotes: "
+    },
+    {
+        "errorCode": "EmoteService-7010",
+        "errorMessage": "Please provide at least one emote"
+    },
+    {
+        "errorCode": "EmoteService-7011",
+        "errorMessage": "Please provide only one emote for rename"
+    },
+    {
+        "errorCode": "EmoteService-7012",
+        "errorMessage": "Please put either the emote id or the emote url"
+    },
+    {
+        "errorCode": "EmoteService-7013",
+        "errorMessage": "No Data found"
+    },
+    {
+        "errorCode": "EmoteService-7014",
+        "errorMessage": "Please provide the rename argument"
+    },
+    {
+        "errorCode": "GeneralService-1001",
+        "errorMessage": "bassni2Pout the max limit of pyramid size is 10"
+    },
+    {
+        "errorCode": "GeneralService-1002",
+        "errorMessage": "bassni2Pout the pyramid exceed twitch message limit"
+    },
+    {
+        "errorCode": "GeneralService-1003",
+        "errorMessage": "bassni2Erm encountered some error while searching for the definition"
+    },
+    {
+        "errorCode": "GeneralService-1004",
+        "errorMessage": "bassni2Blind No Definitions Found"
+    }
+]
