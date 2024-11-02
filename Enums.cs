@@ -5,3 +5,19 @@ public enum ApiResponseType {
     message,
     message_array
 }
+
+public enum ChannelStatus {
+    active,
+    inactive,
+    silent
+}
+
+public enum ReminderType {
+    userreminder,
+    timedreminder
+}
+
+public enum UserStatus {
+    active,
+    inactive
+}
