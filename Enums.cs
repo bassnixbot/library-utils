@@ -21,3 +21,11 @@ public enum UserStatus {
     active,
     inactive
 }
+
+public enum AfkType
+{
+    afk,
+    gn,
+    lurk,
+    custom
+}

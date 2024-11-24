@@ -70,5 +70,13 @@
     {
         "errorCode": "GeneralService-1004",
         "errorMessage": "bassni2Blind No Definitions Found"
+    },
+    {
+        "errorCode": "GeneralService-1005", 
+        "errorMessage": "bassni2Erm User not found. User hasn't been chatting on any tracked channel."
+    },
+    {
+        "errorCode": "GeneralService-1006",
+        "errorMessage": "Awkward channel not found."
     }
 ]
